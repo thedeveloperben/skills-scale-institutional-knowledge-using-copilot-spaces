@@ -26,6 +26,14 @@ Developers design, build, test, and deliver software components. They collaborat
 - PR descriptions and code review comments
 - Technical design docs when needed
 
+### Interactions with Other Roles
+- **Product Managers**: Clarify requirements, discuss feasibility and trade-offs, estimate effort
+- **Project Managers**: Report progress, escalate blockers, participate in planning
+- **UX Designers**: Review design specs, collaborate on implementation approach, provide technical constraints
+- **Data Analysts**: Implement tracking and instrumentation, provide data for analysis
+- **Scrum Masters**: Communicate impediments, participate in ceremonies, provide team feedback
+- **SMEs**: Seek guidance on architecture, security, and domain-specific patterns
+
 ---
 
 ## Product Managers
@@ -48,6 +56,14 @@ Product Managers define what should be built to deliver customer and business va
 - Weekly alignment with PM and engineering leads
 - Roadmap updates and stakeholder briefings
 - Acceptance criteria and feature specs
+
+### Interactions with Other Roles
+- **Developers**: Define requirements, review implementations, prioritize technical debt
+- **Project Managers**: Align on scope and timelines, manage stakeholder expectations
+- **UX Designers**: Partner on feature definition, validate user needs, prioritize design work
+- **Data Analysts**: Define success metrics, review performance data, inform roadmap decisions
+- **Scrum Masters**: Communicate product priorities, participate in backlog refinement
+- **SMEs**: Understand domain constraints, validate feature feasibility
 
 ---
 
@@ -72,6 +88,14 @@ Project Managers coordinate delivery activities, manage schedules, risks, and co
 - Weekly status updates and stakeholder reports
 - Risk registers and decision logs
 - Coordination via project boards and meeting facilitation
+
+### Interactions with Other Roles
+- **Developers**: Track progress, remove blockers, coordinate releases
+- **Product Managers**: Align on timelines and scope, manage stakeholder communication
+- **UX Designers**: Schedule design reviews, ensure design delivery aligns with development
+- **Data Analysts**: Request metrics for project tracking, include in status reports
+- **Scrum Masters**: Coordinate on team processes, share risk and dependency information
+- **SMEs**: Schedule reviews, ensure domain requirements are incorporated
 
 ---
 

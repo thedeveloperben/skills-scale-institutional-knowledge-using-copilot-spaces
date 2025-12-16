@@ -26,7 +26,7 @@ Guidance for managing day-to-day execution and tracking progress toward project 
 ## Reporting & Metrics
 - Track velocity and burndown (Scrum Master or Project Manager)
 - Monitor success metrics identified in the Project One-pager (Data Analyst with Product Manager)
-- Use dashboards for key signals (errors, latency, usage, user behavior insights)
+- Use dashboards for key signals: technical metrics (errors, latency), usage metrics, and user experience indicators
 
 ## Blocker Escalation
 - Level 1: Team-level triage in daily standup
