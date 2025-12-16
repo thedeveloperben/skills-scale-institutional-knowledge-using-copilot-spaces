@@ -4,9 +4,9 @@
 Guidance for managing day-to-day execution and tracking progress toward project milestones.
 
 ## Team Rhythm
-- Daily standups (15 min) — focus on progress, blockers, dependencies
-- Weekly delivery sync — show progress, updates, and flagged risks
-- Demo/Review at the end of each sprint or milestone
+- Daily standups (15 min) — focus on progress, blockers, dependencies (facilitated by Scrum Master or Project Manager)
+- Weekly delivery sync — show progress, updates, and flagged risks (Product Manager, Project Manager, key stakeholders)
+- Demo/Review at the end of each sprint or milestone (team presents to stakeholders, UX Designer showcases user flows)
 
 ## Workflows
 - Use the project board (e.g., GitHub Projects) with columns: Backlog, Ready, In Progress, In Review, QA, Done
@@ -24,9 +24,9 @@ Guidance for managing day-to-day execution and tracking progress toward project 
 - Manual QA for feature acceptance when needed
 
 ## Reporting & Metrics
-- Track velocity and burndown
-- Monitor success metrics identified in the Project One-pager
-- Use dashboards for key signals (errors, latency, usage)
+- Track velocity and burndown (Scrum Master or Project Manager)
+- Monitor success metrics identified in the Project One-pager (Data Analyst with Product Manager)
+- Use dashboards for key signals: technical metrics (errors, latency), usage metrics, and user experience indicators
 
 ## Blocker Escalation
 - Level 1: Team-level triage in daily standup

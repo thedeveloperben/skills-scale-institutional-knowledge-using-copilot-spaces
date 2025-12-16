@@ -20,6 +20,14 @@ Applies to all cross-functional projects that deliver product features, services
 - QA/Testing: validate quality and acceptance criteria.
 - Stakeholders: provide inputs and approvals.
 
+## Extended Roles (engaged based on project needs)
+- UX Designer: designs user-centered experiences and validates usability.
+- Data Analyst: measures outcomes, provides insights, and enables data-driven decisions.
+- Scrum Master: facilitates agile ceremonies, removes impediments, and coaches teams.
+- Subject Matter Expert (SME): provides specialized domain knowledge and ensures standards compliance.
+
+See [Roles and Personas](octoacme-roles-and-personas.md) for detailed descriptions of all roles.
+
 ## Key Artifacts
 - Project Charter / One-pager
 - Roadmap and Release Plan
